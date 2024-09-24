@@ -13,7 +13,7 @@ This bar chart visualizes the distribution of players across different nationali
 ### 2. Player Value vs Wage Correlation
 The scatter plot shows the correlation between players' market values and their wages, illustrating the economic aspects of player management.
 
-![Player Value vs Wage Correlation](path/to/player_value_vs_wage.png)
+![Player Value vs Wage Correlation](./player_value_vs_wage.png)
 
 ### 3. Player Attribute Distribution
 Histograms showing the distribution of key attributes like pace, dribbling, and shooting among players.
@@ -23,17 +23,17 @@ Histograms showing the distribution of key attributes like pace, dribbling, and 
 ### 4. Team Composition Analysis
 This graph dives into the composition and quality of different teams, influencing gameplay and team selection strategies.
 
-![Team Composition Analysis](path/to/team_composition_analysis.png)
+![Team Composition Analysis](./team_composition_analysis.png)
 
 ### 5. Trend in Player Attributes
 A line graph displaying trends in player attributes across different ages to help in understanding player development.
 
-![Trend in Player Attributes](path/to/trend_in_player_attributes.png)
+![Trend in Player Attributes](./trend_in_player_attributes.png)
 
 ### 6. Overall Rating Distribution
 Histogram showcasing the overall ratings distribution across all players, aiding in player recruitment and game play strategy.
 
-![Overall Rating Distribution](path/to/overall_rating_distribution.png)
+![Overall Rating Distribution](./overall_rating_distribution.png)
 
 ## Tools Used
 - **Google Colab**: A cloud-based Python development environment with access to free GPUs.
